@@ -1,0 +1,74 @@
+body{
+    background-color: #eee;
+}
+
+.link{
+    border: 1px solid;
+    width: 100px;
+    height: 50px;
+padding-bottom: 10px;
+background-color: coral;
+
+}
+
+section{
+    width: 100%;
+    max-width: 80%;
+    margin: auto;
+    background-color: #fff;
+}
+
+.address{
+    
+    width: 100%;
+    max-width: 45%;
+    margin-left: 750px;
+    margin-top: 3rem;
+    line-height: 10px;
+}
+
+.reci {
+    line-height: 10px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+.salute{
+    margin-left: 20px;
+}
+
+.text{
+    margin-left: 20px;
+    line-height: 20px;
+    margin-right: 20px;
+}
+
+.close{
+    width: 45%;
+    margin-left: 700px;
+}
+
+hr{
+    border: 1px solid black;
+    margin-right: 200px;
+}
+
+
+.button{
+color: solid rgb(0, 0, 0);
+padding: 3%;
+font-weight: bold;
+font-size: 30px;
+border: 16px 32px;
+height: 20px;
+background-color: crimson;
+width: fit-content;
+}
+
+
+
+
